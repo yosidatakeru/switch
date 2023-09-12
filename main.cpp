@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+
 	int scene = 0;
 	switch (scene)
 	{
